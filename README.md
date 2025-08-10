@@ -29,10 +29,11 @@
 
 <div align="center"; style=padding:20 px; border-radius:10 px; display:flex; justify-content:space-around; flex-wrap: wrap; gap:20 px;">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhananjayasampath&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" style="border-radius:10 px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhananjayasampath&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" style="border-radius:10 px;" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=dhananjayasampath&show_icons=true&locale=en" alt="GitHub Stats" style="border-radius:10 px;" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhananjayasampath&show_icons=true&theme=radical)
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjayasampath&" alt="GitHub Streak" style="border-radius:10 px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjayasampath&theme=radical" alt="GitHub Streak" style="border-radius:10 px;" />
+
 
 </div>

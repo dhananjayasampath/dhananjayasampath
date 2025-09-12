@@ -1,4 +1,4 @@
-![MasterHead](github-header-banner.png)
+![MasterHead](Professional LinkedIn Banner.png)
 
 <h1 align="center">Hi 👋, I'm Dhananjaya Sampath</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>

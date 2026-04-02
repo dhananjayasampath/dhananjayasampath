@@ -37,19 +37,3 @@
 
 </div>
 
-### 📈 My GitHub Contributions
-
-<div align="center">
-  <!-- Contribution Graph -->
-  ![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=dhananjayasampath&theme=react-dark&hide_border=true)
-
-  <!-- GitHub Streak -->
-  <br>
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhananjayasampath&theme=radical)
-
-  <!-- Animated marquee -->
-  <br>
-  <marquee behavior="scroll" direction="left" scrollamount="5">
-    🔥 Recent commits keep moving → keep coding, keep growing!
-  </marquee>
-</div>
